@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Placemark>
+        <name>Y Shape</name>
+        <Polygon>
+            <outerBoundaryIs>
+                <LinearRing>
+                    <coordinates>
+                        12.4920,41.9000  <!-- Top left arm of Y -->
+                        12.4925,41.8980  <!-- Left angle point -->
+                        12.4930,41.8960  <!-- Bottom stem -->
+                        12.4935,41.8980  <!-- Right angle point -->
+                        12.4940,41.9000  <!-- Top right arm of Y -->
+                        12.4935,41.8980  <!-- Back to right angle -->
+                        12.4930,41.8960  <!-- Back to stem -->
+                        12.4925,41.8980  <!-- Back to left angle -->
+                        12.4920,41.9000  <!-- Complete polygon -->
+                    </coordinates>
+                </LinearRing>
+            </outerBoundaryIs>
+        </Polygon>
+    </Placemark>
+</kml>
