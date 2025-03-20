@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="yStyle">
+      <LineStyle>
+        <color>ff0000ff</color> <!-- Red outline -->
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color> <!-- Green fill, 50% opacity -->
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Y Shape</name>
+      <styleUrl>#yStyle</styleUrl>
+      <MultiGeometry>
+        <!-- Left arm of Y -->
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                12.4854,41.9128
+                12.4874,41.9128
+                12.4974,41.9028
+                12.4954,41.9028
+                12.4854,41.9128
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <!-- Right arm of Y -->
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                12.5054,41.9128
+                12.5074,41.9128
+                12.4974,41.9028
+                12.4954,41.9028
+                12.5054,41.9128
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <!-- Stem of Y -->
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                12.4954,41.9028
+                12.4974,41.9028
+                12.4974,41.8928
+                12.4954,41.8928
+                12.4954,41.9028
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
