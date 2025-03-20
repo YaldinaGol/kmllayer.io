@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="yStyle">
+      <LineStyle>
+        <color>ff0000ff</color> <!-- Red outline (ARGB: FF0000FF = fully opaque red) -->
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color> <!-- Green fill with 50% opacity (ARGB: 7F00FF00) -->
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Y Shape</name>
+      <styleUrl>#yStyle</styleUrl>
+      <Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						12.49176637328355,41.88095068781965,0 12.49235874240265,41.88093073415254,0 12.49231246056724,41.88891833464114,0 12.49740561881891,41.89683146876751,0 12.49677766609489,41.89684188411988,0 12.4920519905823,41.88935451950751,0 12.48729160770883,41.89680731662105,0 12.48661938054845,41.89674800345073,0 12.4917629302093,41.88893509448803,0 12.49176637328355,41.88095068781965,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+    </Placemark>
+  </Document>
+</kml>
