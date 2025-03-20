@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Letter Y Polygon - Rome</name>
+    <Style id="yellowPoly">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Y Letter - Rome</name>
+      <styleUrl>#yellowPoly</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              12.4924,41.8902,0  <!-- Top Left -->
+              12.4940,41.8920,0  <!-- Top Middle -->
+              12.4956,41.8902,0  <!-- Top Right -->
+              12.4945,41.8890,0  <!-- Bottom Middle -->
+              12.4940,41.8880,0  <!-- Bottom End -->
+              12.4924,41.8902,0  <!-- Closing the shape -->
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
