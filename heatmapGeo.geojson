@@ -1,0 +1,6935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/13/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.2664<br><b>Lon:</b> -111.21795<br><b>Value:</b> 21<br><b>Time:</b> 8/13/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.21795,
+          55.2664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 50.789717<br><b>Lon:</b> -115.32285<br><b>Value:</b> 1<br><b>Time:</b> 8/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.32285,
+          50.78971700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/24/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.503283<br><b>Lon:</b> -110.246517<br><b>Value:</b> 21<br><b>Time:</b> 7/24/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.246517,
+          55.503283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.193833<br><b>Lon:</b> -116.105<br><b>Value:</b> 3<br><b>Time:</b> 7/23/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.105,
+          52.193833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.449667<br><b>Lon:</b> -116.819667<br><b>Value:</b> 3<br><b>Time:</b> 7/23/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.819667,
+          52.449667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.477<br><b>Lon:</b> -116.521333<br><b>Value:</b> 3<br><b>Time:</b> 7/23/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.521333,
+          52.47699999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/22/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.540983<br><b>Lon:</b> -114.97085<br><b>Value:</b> 1<br><b>Time:</b> 7/22/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.97085,
+          51.540983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/21/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.812867<br><b>Lon:</b> -111.550083<br><b>Value:</b> 21<br><b>Time:</b> 7/21/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.550083,
+          55.812867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/18/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.7785<br><b>Lon:</b> -111.2115<br><b>Value:</b> 21<br><b>Time:</b> 7/18/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2115,
+          55.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/18/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.673333<br><b>Lon:</b> -114.1515<br><b>Value:</b> 9<br><b>Time:</b> 7/18/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1515,
+          58.673333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/18/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.019443<br><b>Lon:</b> -114.695<br><b>Value:</b> 9<br><b>Time:</b> 7/18/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.695,
+          59.019443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.73<br><b>Lon:</b> -110.945<br><b>Value:</b> 21<br><b>Time:</b> 7/17/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.945,
+          55.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.707233<br><b>Lon:</b> -118.9744<br><b>Value:</b> 1<br><b>Time:</b> 7/17/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9744,
+          56.707233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.94435<br><b>Lon:</b> -110.94405<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94405,
+          54.94435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.140417<br><b>Lon:</b> -111.20545<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.20545,
+          55.140417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.568667<br><b>Lon:</b> -110.164017<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.164017,
+          55.568667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.694833<br><b>Lon:</b> -110.65785<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.65785,
+          55.694833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.712133<br><b>Lon:</b> -110.720533<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.720533,
+          55.71213300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.73105<br><b>Lon:</b> -110.435342<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.435342,
+          55.73105000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.799967<br><b>Lon:</b> -111.116233<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.116233,
+          55.79996700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.813783<br><b>Lon:</b> -110.9986<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9986,
+          55.813783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.835317<br><b>Lon:</b> -111.175167<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.175167,
+          55.835317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.867667<br><b>Lon:</b> -110.920683<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.920683,
+          55.867667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.016667<br><b>Lon:</b> -110.95<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95,
+          56.016667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.02075<br><b>Lon:</b> -110.961033<br><b>Value:</b> 21<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.961033,
+          56.02075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.472313<br><b>Lon:</b> -111.98066<br><b>Value:</b> 9<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98066,
+          56.47231300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.617183<br><b>Lon:</b> -117.858983<br><b>Value:</b> 1<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.858983,
+          57.617183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.7445<br><b>Lon:</b> -114.203683<br><b>Value:</b> 9<br><b>Time:</b> 7/16/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.203683,
+          58.7445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.221183<br><b>Lon:</b> -110.427267<br><b>Value:</b> 21<br><b>Time:</b> 7/12/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.427267,
+          56.221183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.246653<br><b>Lon:</b> -110.22314<br><b>Value:</b> 21<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.22314,
+          56.24665300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.268378<br><b>Lon:</b> -110.255548<br><b>Value:</b> 21<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.255548,
+          56.268378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.30035<br><b>Lon:</b> -112.072883<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.072883,
+          56.30035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.9375<br><b>Lon:</b> -113.025333<br><b>Value:</b> 3<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.025333,
+          56.9375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.014333<br><b>Lon:</b> -110.900667<br><b>Value:</b> 3<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.900667,
+          57.014333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.14915<br><b>Lon:</b> -110.083083<br><b>Value:</b> 3<br><b>Time:</b> 7/11/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.083083,
+          57.14914999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.2655<br><b>Lon:</b> -112.0415<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0415,
+          56.2655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.301<br><b>Lon:</b> -112.124667<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.124667,
+          56.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.318333<br><b>Lon:</b> -112.095<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.095,
+          56.318333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.336667<br><b>Lon:</b> -111.961167<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.961167,
+          56.336667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.347833<br><b>Lon:</b> -112.038667<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.038667,
+          56.347833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.373667<br><b>Lon:</b> -112.009833<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.009833,
+          56.373667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.384667<br><b>Lon:</b> -111.748667<br><b>Value:</b> 9<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.748667,
+          56.384667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.309283<br><b>Lon:</b> -112.569617<br><b>Value:</b> 3<br><b>Time:</b> 7/10/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.569617,
+          57.309283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/5/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.147283<br><b>Lon:</b> -112.921917<br><b>Value:</b> 3<br><b>Time:</b> 7/5/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.921917,
+          57.14728300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.137133<br><b>Lon:</b> -119.870417<br><b>Value:</b> 6<br><b>Time:</b> 7/4/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.870417,
+          59.137133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.036667<br><b>Lon:</b> -117.018333<br><b>Value:</b> 1<br><b>Time:</b> 7/3/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.018333,
+          59.036667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.65645<br><b>Lon:</b> -119.619233<br><b>Value:</b> 6<br><b>Time:</b> 7/3/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.619233,
+          59.65645000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.06996<br><b>Lon:</b> -110.376617<br><b>Value:</b> 21<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.376617,
+          56.06995999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.363<br><b>Lon:</b> -110.788283<br><b>Value:</b> 3<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.788283,
+          57.363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.051433<br><b>Lon:</b> -115.095723<br><b>Value:</b> 9<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.095723,
+          59.051433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.136717<br><b>Lon:</b> -119.87105<br><b>Value:</b> 6<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.87105,
+          59.136717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.140533<br><b>Lon:</b> -119.9483<br><b>Value:</b> 6<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9483,
+          59.14053299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.1433<br><b>Lon:</b> -119.868067<br><b>Value:</b> 6<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.868067,
+          59.1433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.157017<br><b>Lon:</b> -114.964333<br><b>Value:</b> 9<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.964333,
+          59.15701700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.171467<br><b>Lon:</b> -114.93385<br><b>Value:</b> 9<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.93385,
+          59.171467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.195483<br><b>Lon:</b> -114.909817<br><b>Value:</b> 9<br><b>Time:</b> 7/2/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.909817,
+          59.195483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.839855<br><b>Lon:</b> -114.677611<br><b>Value:</b> 9<br><b>Time:</b> 7/1/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.677611,
+          58.83985500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.56795<br><b>Lon:</b> -119.283083<br><b>Value:</b> 6<br><b>Time:</b> 7/1/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.283083,
+          59.56795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.858<br><b>Lon:</b> -114.494367<br><b>Value:</b> 9<br><b>Time:</b> 6/28/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.494367,
+          58.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.891983<br><b>Lon:</b> -117.004867<br><b>Value:</b> 1<br><b>Time:</b> 6/27/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.004867,
+          58.891983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/20/2024 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.082975<br><b>Lon:</b> -118.870537<br><b>Value:</b> 1<br><b>Time:</b> 6/20/2024 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.870537,
+          59.082975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.859183<br><b>Lon:</b> -119.659367<br><b>Value:</b> 1<br><b>Time:</b> 7/23/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.659367,
+          56.85918300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/22/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.696848<br><b>Lon:</b> -117.7705<br><b>Value:</b> 3<br><b>Time:</b> 7/22/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7705,
+          57.696848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/21/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.00024<br><b>Lon:</b> -118.770648<br><b>Value:</b> 3<br><b>Time:</b> 7/21/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.770648,
+          58.00024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/8/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.981817<br><b>Lon:</b> -119.972633<br><b>Value:</b> 1<br><b>Time:</b> 7/8/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.972633,
+          57.981817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.225<br><b>Lon:</b> -114.4041<br><b>Value:</b> 1<br><b>Time:</b> 7/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4041,
+          59.22500000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.955033<br><b>Lon:</b> -116.247333<br><b>Value:</b> 2<br><b>Time:</b> 7/3/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.247333,
+          59.95503300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.950667<br><b>Lon:</b> -119.776167<br><b>Value:</b> 1<br><b>Time:</b> 6/30/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.776167,
+          56.950667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.503644<br><b>Lon:</b> -116.247199<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.247199,
+          57.503644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.801371<br><b>Lon:</b> -114.761348<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.761348,
+          57.801371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.158117<br><b>Lon:</b> -114.182933<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.182933,
+          58.158117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.7624<br><b>Lon:</b> -111.149033<br><b>Value:</b> 1<br><b>Time:</b> 6/30/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.149033,
+          59.7624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.408<br><b>Lon:</b> -113.496<br><b>Value:</b> 5<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.496,
+          57.408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.421667<br><b>Lon:</b> -113.400667<br><b>Value:</b> 5<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.400667,
+          57.421667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.444917<br><b>Lon:</b> -113.35255<br><b>Value:</b> 5<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35255,
+          57.44491699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.460167<br><b>Lon:</b> -113.390167<br><b>Value:</b> 5<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.390167,
+          57.460167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.4795<br><b>Lon:</b> -113.258333<br><b>Value:</b> 5<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.258333,
+          57.4795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.707633<br><b>Lon:</b> -118.32575<br><b>Value:</b> 3<br><b>Time:</b> 6/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32575,
+          57.707633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.860083<br><b>Lon:</b> -115.8038<br><b>Value:</b> 2<br><b>Time:</b> 6/25/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8038,
+          59.860083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.647957<br><b>Lon:</b> -117.89074<br><b>Value:</b> 1<br><b>Time:</b> 6/24/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.89074,
+          57.647957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/23/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.692833<br><b>Lon:</b> -116.019833<br><b>Value:</b> 4<br><b>Time:</b> 6/23/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.019833,
+          57.692833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/23/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.67455<br><b>Lon:</b> -114.320817<br><b>Value:</b> 1<br><b>Time:</b> 6/23/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.320817,
+          58.67455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/9/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.230787<br><b>Lon:</b> -118.907882<br><b>Value:</b> 1<br><b>Time:</b> 6/9/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.907882,
+          59.230787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/7/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.86785<br><b>Lon:</b> -116.6625<br><b>Value:</b> 6<br><b>Time:</b> 6/7/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6625,
+          54.86785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/7/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.935333<br><b>Lon:</b> -111.104617<br><b>Value:</b> 1<br><b>Time:</b> 6/7/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.104617,
+          55.935333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.655002<br><b>Lon:</b> -119.485325<br><b>Value:</b> 2<br><b>Time:</b> 6/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.485325,
+          55.655002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.583557<br><b>Lon:</b> -119.404602<br><b>Value:</b> 2<br><b>Time:</b> 6/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.404602,
+          55.583557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.16715<br><b>Lon:</b> -118.41965<br><b>Value:</b> 1<br><b>Time:</b> 6/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41965,
+          58.16715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/29/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.628167<br><b>Lon:</b> -110.361883<br><b>Value:</b> 1<br><b>Time:</b> 5/29/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.361883,
+          55.628167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/28/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.712283<br><b>Lon:</b> -110.6469<br><b>Value:</b> 2<br><b>Time:</b> 5/28/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6469,
+          57.712283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/28/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.882533<br><b>Lon:</b> -111.054033<br><b>Value:</b> 2<br><b>Time:</b> 5/28/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.054033,
+          57.88253300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.179817<br><b>Lon:</b> -114.115967<br><b>Value:</b> 3<br><b>Time:</b> 5/16/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.115967,
+          55.179817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.225233<br><b>Lon:</b> -114.2428<br><b>Value:</b> 3<br><b>Time:</b> 5/16/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2428,
+          55.225233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.226583<br><b>Lon:</b> -114.2757<br><b>Value:</b> 3<br><b>Time:</b> 5/16/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2757,
+          55.22658300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.990917<br><b>Lon:</b> -113.459433<br><b>Value:</b> 1<br><b>Time:</b> 5/14/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.459433,
+          56.990917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/13/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.520083<br><b>Lon:</b> -117.356783<br><b>Value:</b> 1<br><b>Time:</b> 5/13/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.356783,
+          54.520083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.91005<br><b>Lon:</b> -117.55905<br><b>Value:</b> 5<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55905,
+          53.91005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.9218<br><b>Lon:</b> -117.655033<br><b>Value:</b> 5<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.655033,
+          53.9218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.9295<br><b>Lon:</b> -117.7923<br><b>Value:</b> 5<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7923,
+          53.9295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.931283<br><b>Lon:</b> -117.7807<br><b>Value:</b> 5<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7807,
+          53.931283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.935583<br><b>Lon:</b> -117.776167<br><b>Value:</b> 5<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.776167,
+          53.935583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/6/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.157413<br><b>Lon:</b> -117.330653<br><b>Value:</b> 2<br><b>Time:</b> 5/6/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.330653,
+          55.15741300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.808677<br><b>Lon:</b> -116.203747<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.203747,
+          52.808677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.470617<br><b>Lon:</b> -115.870717<br><b>Value:</b> 2<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.870717,
+          53.470617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.836833<br><b>Lon:</b> -115.783333<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.783333,
+          53.836833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.388929<br><b>Lon:</b> -116.371578<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.371578,
+          54.388929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.053025<br><b>Lon:</b> -117.43991<br><b>Value:</b> 2<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43991,
+          55.05302500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.877833<br><b>Lon:</b> -116.407667<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.407667,
+          55.877833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.0145<br><b>Lon:</b> -115.025017<br><b>Value:</b> 5<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.025017,
+          56.0145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.281817<br><b>Lon:</b> -119.161628<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.161628,
+          56.281817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.386752<br><b>Lon:</b> -116.809335<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.809335,
+          56.386752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/5/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.545183<br><b>Lon:</b> -119.4788<br><b>Value:</b> 1<br><b>Time:</b> 5/5/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4788,
+          56.54518299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.815117<br><b>Lon:</b> -115.450383<br><b>Value:</b> 1<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.450383,
+          52.81511699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.145183<br><b>Lon:</b> -115.686783<br><b>Value:</b> 2<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.686783,
+          53.145183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.893733<br><b>Lon:</b> -115.664967<br><b>Value:</b> 6<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.664967,
+          54.893733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.896<br><b>Lon:</b> -116.100217<br><b>Value:</b> 6<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.100217,
+          54.896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.95775<br><b>Lon:</b> -115.681083<br><b>Value:</b> 6<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.681083,
+          54.95775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.034283<br><b>Lon:</b> -115.14815<br><b>Value:</b> 6<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.14815,
+          55.034283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.956383<br><b>Lon:</b> -115.056367<br><b>Value:</b> 5<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.056367,
+          55.95638300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.993067<br><b>Lon:</b> -114.980067<br><b>Value:</b> 5<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.980067,
+          55.993067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.054333<br><b>Lon:</b> -115.008333<br><b>Value:</b> 5<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.008333,
+          56.054333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/4/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.055483<br><b>Lon:</b> -115.017883<br><b>Value:</b> 5<br><b>Time:</b> 5/4/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.017883,
+          56.05548300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/3/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.82095<br><b>Lon:</b> -115.908167<br><b>Value:</b> 1<br><b>Time:</b> 5/3/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.908167,
+          52.82095000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/3/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.4906<br><b>Lon:</b> -119.4031<br><b>Value:</b> 1<br><b>Time:</b> 5/3/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4031,
+          58.4906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/2/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.435917<br><b>Lon:</b> -114.553883<br><b>Value:</b> 1<br><b>Time:</b> 5/2/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.553883,
+          58.435917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/1/2023 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.093<br><b>Lon:</b> -115.974833<br><b>Value:</b> 6<br><b>Time:</b> 5/1/2023 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.974833,
+          55.093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 10/3/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.11275<br><b>Lon:</b> -115.6627<br><b>Value:</b> 1<br><b>Time:</b> 10/3/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6627,
+          53.11275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/11/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.1315<br><b>Lon:</b> -115.867783<br><b>Value:</b> 1<br><b>Time:</b> 9/11/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.867783,
+          52.13150000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/26/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.928353<br><b>Lon:</b> -110.78601<br><b>Value:</b> 25<br><b>Time:</b> 8/26/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.78601,
+          59.92835300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/24/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.551483<br><b>Lon:</b> -111.135233<br><b>Value:</b> 25<br><b>Time:</b> 8/24/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.135233,
+          59.551483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/23/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.746167<br><b>Lon:</b> -110.424433<br><b>Value:</b> 25<br><b>Time:</b> 8/23/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.424433,
+          59.746167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.123583<br><b>Lon:</b> -115.69545<br><b>Value:</b> 2<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.69545,
+          57.123583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.201645<br><b>Lon:</b> -110.552017<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.552017,
+          59.201645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.434333<br><b>Lon:</b> -111.003<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.003,
+          59.434333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.547317<br><b>Lon:</b> -111.102183<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.102183,
+          59.547317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.641802<br><b>Lon:</b> -110.587089<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.587089,
+          59.64180199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.670117<br><b>Lon:</b> -110.70995<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70995,
+          59.670117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.674933<br><b>Lon:</b> -111.079867<br><b>Value:</b> 25<br><b>Time:</b> 8/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.079867,
+          59.67493300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/21/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.367847<br><b>Lon:</b> -111.162254<br><b>Value:</b> 25<br><b>Time:</b> 8/21/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.162254,
+          59.36784699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/21/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.4787<br><b>Lon:</b> -111.322767<br><b>Value:</b> 25<br><b>Time:</b> 8/21/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.322767,
+          59.4787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.223283<br><b>Lon:</b> -110.579683<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.579683,
+          59.22328300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.32135<br><b>Lon:</b> -110.984167<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.984167,
+          59.32135000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.331233<br><b>Lon:</b> -111.215083<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.215083,
+          59.331233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.428072<br><b>Lon:</b> -111.092309<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.092309,
+          59.428072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.459533<br><b>Lon:</b> -111.039733<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.039733,
+          59.45953299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/20/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.540967<br><b>Lon:</b> -111.12985<br><b>Value:</b> 25<br><b>Time:</b> 8/20/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.12985,
+          59.540967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/17/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.874367<br><b>Lon:</b> -110.29775<br><b>Value:</b> 25<br><b>Time:</b> 8/17/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.29775,
+          59.874367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/19/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.45577<br><b>Lon:</b> -116.29365<br><b>Value:</b> 1<br><b>Time:</b> 7/19/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.29365,
+          52.45577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.791302<br><b>Lon:</b> -113.307457<br><b>Value:</b> 8<br><b>Time:</b> 7/17/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.307457,
+          56.791302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.865975<br><b>Lon:</b> -113.350332<br><b>Value:</b> 8<br><b>Time:</b> 7/17/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.350332,
+          56.865975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.175183<br><b>Lon:</b> -113.100917<br><b>Value:</b> 1<br><b>Time:</b> 7/17/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.100917,
+          57.175183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.7725<br><b>Lon:</b> -113.3995<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3995,
+          56.77250000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.785117<br><b>Lon:</b> -113.380533<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.380533,
+          56.785117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.790567<br><b>Lon:</b> -113.3074<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3074,
+          56.790567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.79135<br><b>Lon:</b> -113.366<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.366,
+          56.79135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.796817<br><b>Lon:</b> -113.339133<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.339133,
+          56.79681699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.818367<br><b>Lon:</b> -113.164583<br><b>Value:</b> 8<br><b>Time:</b> 7/16/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.164583,
+          56.818367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/14/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.684767<br><b>Lon:</b> -112.672317<br><b>Value:</b> 1<br><b>Time:</b> 7/14/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.672317,
+          55.684767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.5952<br><b>Lon:</b> -110.8377<br><b>Value:</b> 25<br><b>Time:</b> 6/30/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8377,
+          59.59520000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.768217<br><b>Lon:</b> -111.047133<br><b>Value:</b> 25<br><b>Time:</b> 6/30/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047133,
+          59.76821700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.031033<br><b>Lon:</b> -111.156367<br><b>Value:</b> 25<br><b>Time:</b> 6/25/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.156367,
+          59.03103299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.379317<br><b>Lon:</b> -110.793883<br><b>Value:</b> 25<br><b>Time:</b> 6/13/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.793883,
+          59.37931700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.400417<br><b>Lon:</b> -110.669083<br><b>Value:</b> 25<br><b>Time:</b> 6/13/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.669083,
+          59.40041699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.418367<br><b>Lon:</b> -110.812683<br><b>Value:</b> 25<br><b>Time:</b> 6/13/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.812683,
+          59.418367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/12/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.817133<br><b>Lon:</b> -111.118583<br><b>Value:</b> 25<br><b>Time:</b> 6/12/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.118583,
+          59.817133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/1/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.292783<br><b>Lon:</b> -118.997117<br><b>Value:</b> 1<br><b>Time:</b> 6/1/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.997117,
+          59.292783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/22/2022 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.915917<br><b>Lon:</b> -115.032933<br><b>Value:</b> 1<br><b>Time:</b> 5/22/2022 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.032933,
+          51.915917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/21/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.6792<br><b>Lon:</b> -114.792267<br><b>Value:</b> 1<br><b>Time:</b> 9/21/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.792267,
+          51.6792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.5439<br><b>Lon:</b> -113.1455<br><b>Value:</b> 13<br><b>Time:</b> 8/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1455,
+          56.54389999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.705633<br><b>Lon:</b> -115.343833<br><b>Value:</b> 2<br><b>Time:</b> 7/23/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.343833,
+          51.705633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.712972<br><b>Lon:</b> -115.379413<br><b>Value:</b> 2<br><b>Time:</b> 7/23/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.379413,
+          51.71297200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/14/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.0536<br><b>Lon:</b> -112.3912<br><b>Value:</b> 9<br><b>Time:</b> 7/14/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3912,
+          57.0536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/13/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.10975<br><b>Lon:</b> -111.188433<br><b>Value:</b> 13<br><b>Time:</b> 7/13/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.188433,
+          57.10975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/13/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.204195<br><b>Lon:</b> -110.654433<br><b>Value:</b> 13<br><b>Time:</b> 7/13/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.654433,
+          57.204195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.119889<br><b>Lon:</b> -112.3998<br><b>Value:</b> 9<br><b>Time:</b> 7/12/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3998,
+          57.119889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.151889<br><b>Lon:</b> -113.221668<br><b>Value:</b> 9<br><b>Time:</b> 7/12/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.221668,
+          57.15188899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.180517<br><b>Lon:</b> -110.769983<br><b>Value:</b> 13<br><b>Time:</b> 7/12/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.769983,
+          57.180517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.203233<br><b>Lon:</b> -110.7275<br><b>Value:</b> 13<br><b>Time:</b> 7/12/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7275,
+          57.203233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.320267<br><b>Lon:</b> -110.793533<br><b>Value:</b> 13<br><b>Time:</b> 7/12/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.793533,
+          57.320267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.782302<br><b>Lon:</b> -112.788616<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.788616,
+          56.78230200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.006883<br><b>Lon:</b> -112.962167<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.962167,
+          57.006883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.039167<br><b>Lon:</b> -113.037833<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.037833,
+          57.039167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.04725<br><b>Lon:</b> -111.256883<br><b>Value:</b> 13<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.256883,
+          57.04725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.073248<br><b>Lon:</b> -112.765875<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.765875,
+          57.073248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.130117<br><b>Lon:</b> -112.789633<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.789633,
+          57.130117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.153667<br><b>Lon:</b> -112.768<br><b>Value:</b> 9<br><b>Time:</b> 7/11/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.768,
+          57.15366700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.970308<br><b>Lon:</b> -111.1581<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1581,
+          56.970308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.073667<br><b>Lon:</b> -110.805667<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.805667,
+          57.073667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.0999<br><b>Lon:</b> -110.594483<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.594483,
+          57.09990000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.113355<br><b>Lon:</b> -111.148191<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.148191,
+          57.11335499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.148117<br><b>Lon:</b> -110.661067<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.661067,
+          57.148117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.429287<br><b>Lon:</b> -110.972136<br><b>Value:</b> 13<br><b>Time:</b> 7/10/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.972136,
+          57.429287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/7/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.87015<br><b>Lon:</b> -111.053317<br><b>Value:</b> 13<br><b>Time:</b> 7/7/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.053317,
+          56.87015000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.822667<br><b>Lon:</b> -114.754917<br><b>Value:</b> 1<br><b>Time:</b> 7/2/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.754917,
+          51.822667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/30/2021 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.414<br><b>Lon:</b> -115.785417<br><b>Value:</b> 1<br><b>Time:</b> 4/30/2021 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.785417,
+          53.41400000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/4/2020 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.3213<br><b>Lon:</b> -115.28371<br><b>Value:</b> 1<br><b>Time:</b> 9/4/2020 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.28371,
+          51.32130000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.725973<br><b>Lon:</b> -112.751908<br><b>Value:</b> 4<br><b>Time:</b> 7/23/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.751908,
+          57.725973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.88644<br><b>Lon:</b> -112.957952<br><b>Value:</b> 4<br><b>Time:</b> 7/23/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.957952,
+          57.88644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.957702<br><b>Lon:</b> -112.716078<br><b>Value:</b> 4<br><b>Time:</b> 7/23/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.716078,
+          57.957702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.962867<br><b>Lon:</b> -113.10585<br><b>Value:</b> 4<br><b>Time:</b> 7/23/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.10585,
+          57.962867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/19/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.602517<br><b>Lon:</b> -110.6879<br><b>Value:</b> 5<br><b>Time:</b> 7/19/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6879,
+          59.602517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/19/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.800467<br><b>Lon:</b> -110.82185<br><b>Value:</b> 5<br><b>Time:</b> 7/19/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.82185,
+          59.800467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/18/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.348817<br><b>Lon:</b> -111.083183<br><b>Value:</b> 5<br><b>Time:</b> 7/18/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.083183,
+          59.348817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.60715<br><b>Lon:</b> -110.4447<br><b>Value:</b> 3<br><b>Time:</b> 7/17/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4447,
+          58.60715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.647883<br><b>Lon:</b> -110.31355<br><b>Value:</b> 3<br><b>Time:</b> 7/17/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.31355,
+          58.64788300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.787133<br><b>Lon:</b> -110.145967<br><b>Value:</b> 3<br><b>Time:</b> 7/17/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.145967,
+          58.787133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.367667<br><b>Lon:</b> -110.925533<br><b>Value:</b> 5<br><b>Time:</b> 7/17/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.925533,
+          59.367667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.397383<br><b>Lon:</b> -110.960983<br><b>Value:</b> 5<br><b>Time:</b> 7/17/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.960983,
+          59.397383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.102367<br><b>Lon:</b> -111.1708<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1708,
+          56.102367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/5/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.277245<br><b>Lon:</b> -114.857855<br><b>Value:</b> 6<br><b>Time:</b> 6/5/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.857855,
+          56.27724500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/30/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.291167<br><b>Lon:</b> -113.9738<br><b>Value:</b> 6<br><b>Time:</b> 5/30/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9738,
+          56.29116699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/30/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.350948<br><b>Lon:</b> -113.974755<br><b>Value:</b> 6<br><b>Time:</b> 5/30/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.974755,
+          56.35094800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/29/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.342012<br><b>Lon:</b> -115.866485<br><b>Value:</b> 1<br><b>Time:</b> 5/29/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.866485,
+          53.342012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/27/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.606867<br><b>Lon:</b> -117.434033<br><b>Value:</b> 1<br><b>Time:</b> 5/27/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.434033,
+          59.60686699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.402597<br><b>Lon:</b> -114.363598<br><b>Value:</b> 6<br><b>Time:</b> 5/26/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.363598,
+          56.402597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.85195<br><b>Lon:</b> -118.341233<br><b>Value:</b> 1<br><b>Time:</b> 5/26/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.341233,
+          57.85195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/18/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.655167<br><b>Lon:</b> -114.544067<br><b>Value:</b> 6<br><b>Time:</b> 5/18/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.544067,
+          55.655167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/18/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.716367<br><b>Lon:</b> -114.40635<br><b>Value:</b> 6<br><b>Time:</b> 5/18/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.40635,
+          55.716367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.8441<br><b>Lon:</b> -111.6238<br><b>Value:</b> 1<br><b>Time:</b> 5/12/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6238,
+          55.8441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.182698<br><b>Lon:</b> -117.792933<br><b>Value:</b> 1<br><b>Time:</b> 5/12/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.792933,
+          57.182698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.287567<br><b>Lon:</b> -117.279655<br><b>Value:</b> 1<br><b>Time:</b> 5/12/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.279655,
+          58.28756700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/11/2019 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.087417<br><b>Lon:</b> -117.928833<br><b>Value:</b> 1<br><b>Time:</b> 5/11/2019 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.928833,
+          57.08741699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 12/14/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.076067<br><b>Lon:</b> -117.131367<br><b>Value:</b> 1<br><b>Time:</b> 12/14/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.131367,
+          53.07606699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/7/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.85565<br><b>Lon:</b> -115.704317<br><b>Value:</b> 1<br><b>Time:</b> 8/7/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.704317,
+          51.85565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/3/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.533167<br><b>Lon:</b> -114.981567<br><b>Value:</b> 13<br><b>Time:</b> 8/3/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.981567,
+          57.533167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/3/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.575367<br><b>Lon:</b> -113.788017<br><b>Value:</b> 13<br><b>Time:</b> 8/3/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.788017,
+          57.575367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/29/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.879<br><b>Lon:</b> -116.382<br><b>Value:</b> 1<br><b>Time:</b> 7/29/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.382,
+          51.879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.35965<br><b>Lon:</b> -117.349633<br><b>Value:</b> 1<br><b>Time:</b> 6/27/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.349633,
+          53.35965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/23/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.960433<br><b>Lon:</b> -113.099793<br><b>Value:</b> 2<br><b>Time:</b> 6/23/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.099793,
+          56.960433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/28/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.035417<br><b>Lon:</b> -118.153217<br><b>Value:</b> 1<br><b>Time:</b> 5/28/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153217,
+          57.03541700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/27/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 50.816133<br><b>Lon:</b> -114.643883<br><b>Value:</b> 1<br><b>Time:</b> 5/27/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.643883,
+          50.81613300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.351917<br><b>Lon:</b> -110.636<br><b>Value:</b> 1<br><b>Time:</b> 5/26/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.636,
+          57.351917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/24/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.86975<br><b>Lon:</b> -116.517967<br><b>Value:</b> 1<br><b>Time:</b> 5/24/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.517967,
+          58.86975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/23/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.459333<br><b>Lon:</b> -112.801317<br><b>Value:</b> 5<br><b>Time:</b> 5/23/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.801317,
+          55.459333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/23/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.815825<br><b>Lon:</b> -110.742783<br><b>Value:</b> 2<br><b>Time:</b> 5/23/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.742783,
+          55.815825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/22/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.96805<br><b>Lon:</b> -111.254467<br><b>Value:</b> 2<br><b>Time:</b> 5/22/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.254467,
+          55.96805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/22/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.4038<br><b>Lon:</b> -119.9279<br><b>Value:</b> 2<br><b>Time:</b> 5/22/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9279,
+          57.4038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.108557<br><b>Lon:</b> -111.856731<br><b>Value:</b> 4<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.856731,
+          55.108557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.2454<br><b>Lon:</b> -111.876217<br><b>Value:</b> 4<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.876217,
+          55.2454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.258317<br><b>Lon:</b> -111.862883<br><b>Value:</b> 4<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862883,
+          55.258317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.276783<br><b>Lon:</b> -111.5515<br><b>Value:</b> 4<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5515,
+          55.276783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.411657<br><b>Lon:</b> -112.957148<br><b>Value:</b> 5<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.957148,
+          55.41165700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.43705<br><b>Lon:</b> -112.753467<br><b>Value:</b> 5<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.753467,
+          55.43705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.472767<br><b>Lon:</b> -112.7919<br><b>Value:</b> 5<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7919,
+          55.472767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/21/2018 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.492667<br><b>Lon:</b> -113.165917<br><b>Value:</b> 5<br><b>Time:</b> 5/21/2018 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.165917,
+          55.492667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 10/25/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 50.085883<br><b>Lon:</b> -114.2537<br><b>Value:</b> 1<br><b>Time:</b> 10/25/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2537,
+          50.085883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/31/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.995583<br><b>Lon:</b> -116.143167<br><b>Value:</b> 1<br><b>Time:</b> 8/31/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.143167,
+          51.995583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/31/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.23025<br><b>Lon:</b> -116.615167<br><b>Value:</b> 1<br><b>Time:</b> 8/31/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.615167,
+          52.23025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/18/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.396<br><b>Lon:</b> -114.663933<br><b>Value:</b> 13<br><b>Time:</b> 8/18/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.663933,
+          58.396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/13/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.36025<br><b>Lon:</b> -113.267667<br><b>Value:</b> 1<br><b>Time:</b> 8/13/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.267667,
+          57.36025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/5/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.394667<br><b>Lon:</b> -114.298333<br><b>Value:</b> 13<br><b>Time:</b> 8/5/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.298333,
+          58.394667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/26/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.1845<br><b>Lon:</b> -116.7575<br><b>Value:</b> 1<br><b>Time:</b> 7/26/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7575,
+          58.1845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.580033<br><b>Lon:</b> -114.993133<br><b>Value:</b> 13<br><b>Time:</b> 7/16/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.993133,
+          51.58003300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/5/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.222542<br><b>Lon:</b> -116.426999<br><b>Value:</b> 13<br><b>Time:</b> 7/5/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.426999,
+          58.222542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2017 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.975376<br><b>Lon:</b> -116.896463<br><b>Value:</b> 13<br><b>Time:</b> 6/15/2017 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.896463,
+          57.975376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2016 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.447217<br><b>Lon:</b> -114.542267<br><b>Value:</b> 13<br><b>Time:</b> 5/25/2016 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.542267,
+          58.447217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2016 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.525278<br><b>Lon:</b> -116.803612<br><b>Value:</b> 1<br><b>Time:</b> 5/15/2016 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.803612,
+          54.525278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/1/2016 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.670117<br><b>Lon:</b> -111.464233<br><b>Value:</b> 1<br><b>Time:</b> 5/1/2016 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.464233,
+          56.670117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/1/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.515033<br><b>Lon:</b> -118.295117<br><b>Value:</b> 6<br><b>Time:</b> 8/1/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.295117,
+          58.515033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/27/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.734967<br><b>Lon:</b> -115.4881<br><b>Value:</b> 17<br><b>Time:</b> 7/27/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4881,
+          57.73496699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.3995<br><b>Lon:</b> -115.920667<br><b>Value:</b> 17<br><b>Time:</b> 7/15/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.920667,
+          57.3995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.507833<br><b>Lon:</b> -115.470883<br><b>Value:</b> 17<br><b>Time:</b> 7/15/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.470883,
+          57.507833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/14/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.267517<br><b>Lon:</b> -115.7718<br><b>Value:</b> 3<br><b>Time:</b> 7/14/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7718,
+          57.267517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/6/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.6969<br><b>Lon:</b> -114.14<br><b>Value:</b> 17<br><b>Time:</b> 7/6/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.14,
+          57.6969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.832683<br><b>Lon:</b> -118.529767<br><b>Value:</b> 2<br><b>Time:</b> 7/4/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.529767,
+          56.832683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.8342<br><b>Lon:</b> -118.536817<br><b>Value:</b> 2<br><b>Time:</b> 7/4/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.536817,
+          56.8342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.75285<br><b>Lon:</b> -117.8603<br><b>Value:</b> 2<br><b>Time:</b> 7/3/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8603,
+          53.75285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.783333<br><b>Lon:</b> -117.85<br><b>Value:</b> 2<br><b>Time:</b> 7/3/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85,
+          53.783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.649467<br><b>Lon:</b> -118.64445<br><b>Value:</b> 1<br><b>Time:</b> 7/2/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.64445,
+          56.64946699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.821533<br><b>Lon:</b> -118.562317<br><b>Value:</b> 1<br><b>Time:</b> 7/1/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.562317,
+          56.821533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.982<br><b>Lon:</b> -114.200167<br><b>Value:</b> 3<br><b>Time:</b> 7/1/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.200167,
+          56.982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.9083<br><b>Lon:</b> -116.2125<br><b>Value:</b> 17<br><b>Time:</b> 7/1/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2125,
+          57.90829999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.37075<br><b>Lon:</b> -117.871667<br><b>Value:</b> 8<br><b>Time:</b> 7/1/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.871667,
+          59.37075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.6715<br><b>Lon:</b> -114.595667<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.595667,
+          55.67149999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.675535<br><b>Lon:</b> -114.616475<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.616475,
+          55.675535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.745<br><b>Lon:</b> -114.661833<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.661833,
+          55.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.774083<br><b>Lon:</b> -114.663<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.663,
+          55.774083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.983167<br><b>Lon:</b> -113.221667<br><b>Value:</b> 1<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.221667,
+          55.98316699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.821<br><b>Lon:</b> -114.101167<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.101167,
+          56.82099999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.827833<br><b>Lon:</b> -114.109833<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.109833,
+          56.827833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.83035<br><b>Lon:</b> -114.317667<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.317667,
+          56.83035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.830483<br><b>Lon:</b> -114.292083<br><b>Value:</b> 4<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.292083,
+          56.830483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.12965<br><b>Lon:</b> -115.270217<br><b>Value:</b> 3<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.270217,
+          57.12965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.133923<br><b>Lon:</b> -115.3109<br><b>Value:</b> 3<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3109,
+          57.133923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.1595<br><b>Lon:</b> -115.2155<br><b>Value:</b> 3<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2155,
+          57.1595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.1993<br><b>Lon:</b> -115.22405<br><b>Value:</b> 3<br><b>Time:</b> 6/30/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.22405,
+          57.1993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.80135<br><b>Lon:</b> -114.328717<br><b>Value:</b> 17<br><b>Time:</b> 6/29/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.328717,
+          57.80135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.222983<br><b>Lon:</b> -117.891333<br><b>Value:</b> 8<br><b>Time:</b> 6/29/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.891333,
+          59.22298299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.609767<br><b>Lon:</b> -112.142083<br><b>Value:</b> 1<br><b>Time:</b> 6/28/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.142083,
+          56.609767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.778733<br><b>Lon:</b> -116.3263<br><b>Value:</b> 17<br><b>Time:</b> 6/28/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3263,
+          57.778733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.20193<br><b>Lon:</b> -117.7572<br><b>Value:</b> 8<br><b>Time:</b> 6/28/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7572,
+          59.20193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.8716<br><b>Lon:</b> -114.312867<br><b>Value:</b> 17<br><b>Time:</b> 6/27/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.312867,
+          57.8716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.049183<br><b>Lon:</b> -115.84555<br><b>Value:</b> 17<br><b>Time:</b> 6/27/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.84555,
+          58.049183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.4147<br><b>Lon:</b> -117.291867<br><b>Value:</b> 6<br><b>Time:</b> 6/27/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.291867,
+          58.4147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/27/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.229717<br><b>Lon:</b> -119.975783<br><b>Value:</b> 1<br><b>Time:</b> 6/27/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.975783,
+          59.229717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.0438<br><b>Lon:</b> -110.21215<br><b>Value:</b> 1<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.21215,
+          56.0438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.006633<br><b>Lon:</b> -110.534333<br><b>Value:</b> 5<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.534333,
+          57.006633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.3529<br><b>Lon:</b> -110.416433<br><b>Value:</b> 5<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.416433,
+          57.3529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.561667<br><b>Lon:</b> -114.419417<br><b>Value:</b> 17<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.419417,
+          57.561667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.5809<br><b>Lon:</b> -114.77335<br><b>Value:</b> 17<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.77335,
+          57.58089999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.936917<br><b>Lon:</b> -116.571167<br><b>Value:</b> 17<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.571167,
+          57.936917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.941217<br><b>Lon:</b> -114.616117<br><b>Value:</b> 17<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.616117,
+          57.94121700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.216<br><b>Lon:</b> -117.6876<br><b>Value:</b> 8<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6876,
+          59.21599999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.229717<br><b>Lon:</b> -117.654533<br><b>Value:</b> 8<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.654533,
+          59.229717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.243467<br><b>Lon:</b> -117.982<br><b>Value:</b> 8<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.982,
+          59.243467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.278617<br><b>Lon:</b> -116.97495<br><b>Value:</b> 8<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.97495,
+          59.278617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.293383<br><b>Lon:</b> -118.094617<br><b>Value:</b> 8<br><b>Time:</b> 6/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.094617,
+          59.293383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.311717<br><b>Lon:</b> -110.6222<br><b>Value:</b> 5<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6222,
+          57.311717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.331583<br><b>Lon:</b> -110.62625<br><b>Value:</b> 5<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.62625,
+          57.331583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.7169<br><b>Lon:</b> -115.2843<br><b>Value:</b> 17<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2843,
+          57.7169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.767067<br><b>Lon:</b> -114.488367<br><b>Value:</b> 17<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.488367,
+          57.767067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.916833<br><b>Lon:</b> -116.023867<br><b>Value:</b> 17<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.023867,
+          57.916833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.190767<br><b>Lon:</b> -118.35585<br><b>Value:</b> 6<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35585,
+          58.190767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.462933<br><b>Lon:</b> -118.18735<br><b>Value:</b> 6<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18735,
+          58.462933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.52995<br><b>Lon:</b> -118.0047<br><b>Value:</b> 6<br><b>Time:</b> 6/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0047,
+          58.52995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.476183<br><b>Lon:</b> -112.027267<br><b>Value:</b> 1<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.027267,
+          55.476183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.768608<br><b>Lon:</b> -110.326164<br><b>Value:</b> 5<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.326164,
+          56.768608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.759667<br><b>Lon:</b> -115.365<br><b>Value:</b> 17<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.365,
+          57.75966699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.792833<br><b>Lon:</b> -118.159333<br><b>Value:</b> 6<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159333,
+          58.792833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.7917<br><b>Lon:</b> -118.5111<br><b>Value:</b> 1<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5111,
+          59.7917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.826867<br><b>Lon:</b> -117.74615<br><b>Value:</b> 2<br><b>Time:</b> 6/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.74615,
+          59.826867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/11/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.7413<br><b>Lon:</b> -110.573417<br><b>Value:</b> 3<br><b>Time:</b> 6/11/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.573417,
+          55.7413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/11/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.798683<br><b>Lon:</b> -110.760183<br><b>Value:</b> 3<br><b>Time:</b> 6/11/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.760183,
+          55.798683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/8/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.485417<br><b>Lon:</b> -119.225817<br><b>Value:</b> 1<br><b>Time:</b> 6/8/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.225817,
+          53.485417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/6/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.241483<br><b>Lon:</b> -114.629283<br><b>Value:</b> 1<br><b>Time:</b> 6/6/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.629283,
+          58.241483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/5/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.271083<br><b>Lon:</b> -114.25625<br><b>Value:</b> 1<br><b>Time:</b> 6/5/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.25625,
+          59.271083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.417583<br><b>Lon:</b> -115.329067<br><b>Value:</b> 2<br><b>Time:</b> 5/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.329067,
+          53.417583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.8085<br><b>Lon:</b> -116.757967<br><b>Value:</b> 4<br><b>Time:</b> 5/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.757967,
+          53.8085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.822033<br><b>Lon:</b> -116.962467<br><b>Value:</b> 4<br><b>Time:</b> 5/26/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.962467,
+          53.82203299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.756917<br><b>Lon:</b> -117.21835<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.21835,
+          53.756917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.828312<br><b>Lon:</b> -110.984887<br><b>Value:</b> 3<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.984887,
+          55.828312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.902333<br><b>Lon:</b> -113.081333<br><b>Value:</b> 6<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.081333,
+          55.90233300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.06565<br><b>Lon:</b> -113.565833<br><b>Value:</b> 6<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.565833,
+          56.06565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.220833<br><b>Lon:</b> -113.806<br><b>Value:</b> 6<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.806,
+          56.220833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.256333<br><b>Lon:</b> -113.874<br><b>Value:</b> 6<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.874,
+          56.25633299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.263333<br><b>Lon:</b> -113.576333<br><b>Value:</b> 6<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.576333,
+          56.263333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.156183<br><b>Lon:</b> -119.012183<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.012183,
+          57.15618299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.204233<br><b>Lon:</b> -119.1353<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1353,
+          57.204233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.2144<br><b>Lon:</b> -119.183233<br><b>Value:</b> 1<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.183233,
+          57.21439999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.263267<br><b>Lon:</b> -119.190817<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.190817,
+          57.263267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.26505<br><b>Lon:</b> -119.169933<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.169933,
+          57.26505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.511167<br><b>Lon:</b> -117.003333<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.003333,
+          57.51116699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.5283<br><b>Lon:</b> -116.9883<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9883,
+          57.5283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.54835<br><b>Lon:</b> -116.1527<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1527,
+          57.54835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/25/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.7622<br><b>Lon:</b> -116.361<br><b>Value:</b> 4<br><b>Time:</b> 5/25/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.361,
+          57.76220000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/24/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.8575<br><b>Lon:</b> -116.9171<br><b>Value:</b> 4<br><b>Time:</b> 5/24/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9171,
+          53.8575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/23/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.13475<br><b>Lon:</b> -113.819167<br><b>Value:</b> 6<br><b>Time:</b> 5/23/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.819167,
+          56.13475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/22/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.807133<br><b>Lon:</b> -110.364883<br><b>Value:</b> 1<br><b>Time:</b> 5/22/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.364883,
+          54.807133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/19/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.977733<br><b>Lon:</b> -114.858083<br><b>Value:</b> 13<br><b>Time:</b> 5/19/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.858083,
+          51.977733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.158733<br><b>Lon:</b> -115.4012<br><b>Value:</b> 2<br><b>Time:</b> 5/12/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4012,
+          53.158733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/21/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.915696<br><b>Lon:</b> -112.539586<br><b>Value:</b> 13<br><b>Time:</b> 4/21/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.539586,
+          54.915696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 3/7/2015 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.688541<br><b>Lon:</b> -117.104061<br><b>Value:</b> 2<br><b>Time:</b> 3/7/2015 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.104061,
+          54.688541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/19/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.909183<br><b>Lon:</b> -116.9768<br><b>Value:</b> 1<br><b>Time:</b> 9/19/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9768,
+          55.909183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/16/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.87198<br><b>Lon:</b> -119.01871<br><b>Value:</b> 3<br><b>Time:</b> 7/16/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.01871,
+          53.87198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.06746<br><b>Lon:</b> -118.29377<br><b>Value:</b> 3<br><b>Time:</b> 7/15/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29377,
+          54.06746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.6599<br><b>Lon:</b> -119.9646<br><b>Value:</b> 1<br><b>Time:</b> 7/15/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9646,
+          54.65990000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/14/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.99561<br><b>Lon:</b> -118.66993<br><b>Value:</b> 3<br><b>Time:</b> 7/14/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.66993,
+          53.99561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/8/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.264667<br><b>Lon:</b> -115.757833<br><b>Value:</b> 1<br><b>Time:</b> 7/8/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.757833,
+          57.264667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.988983<br><b>Lon:</b> -116.656067<br><b>Value:</b> 1<br><b>Time:</b> 7/3/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.656067,
+          51.988983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/19/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 49.4504<br><b>Lon:</b> -114.324667<br><b>Value:</b> 1<br><b>Time:</b> 5/19/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.324667,
+          49.4504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 3/9/2014 12:00:00 AM",
+        "description": "<b>Lat:</b> 51.316663<br><b>Lon:</b> -114.94258<br><b>Value:</b> 1<br><b>Time:</b> 3/9/2014 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.94258,
+          51.316663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.2258<br><b>Lon:</b> -115.118533<br><b>Value:</b> 1<br><b>Time:</b> 7/10/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.118533,
+          59.2258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/8/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.623217<br><b>Lon:</b> -115.8057<br><b>Value:</b> 1<br><b>Time:</b> 7/8/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8057,
+          59.623217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/7/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.655133<br><b>Lon:</b> -119.924867<br><b>Value:</b> 1<br><b>Time:</b> 7/7/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.924867,
+          59.655133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/30/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.363307<br><b>Lon:</b> -114.607937<br><b>Value:</b> 1<br><b>Time:</b> 6/30/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.607937,
+          59.363307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.354883<br><b>Lon:</b> -115.45695<br><b>Value:</b> 2<br><b>Time:</b> 6/29/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.45695,
+          59.354883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/23/2013 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.519967<br><b>Lon:</b> -117.60045<br><b>Value:</b> 1<br><b>Time:</b> 5/23/2013 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.60045,
+          54.51996700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/18/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.46725<br><b>Lon:</b> -119.95465<br><b>Value:</b> 2<br><b>Time:</b> 9/18/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95465,
+          57.46725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/14/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.610317<br><b>Lon:</b> -119.738083<br><b>Value:</b> 1<br><b>Time:</b> 9/14/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.738083,
+          56.610317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/18/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.569833<br><b>Lon:</b> -119.9735<br><b>Value:</b> 1<br><b>Time:</b> 8/18/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9735,
+          57.569833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/26/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.146217<br><b>Lon:</b> -114.933717<br><b>Value:</b> 1<br><b>Time:</b> 7/26/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.933717,
+          59.14621699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.1324<br><b>Lon:</b> -114.195667<br><b>Value:</b> 1<br><b>Time:</b> 7/15/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.195667,
+          59.1324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.306063<br><b>Lon:</b> -114.0784<br><b>Value:</b> 1<br><b>Time:</b> 7/15/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0784,
+          59.306063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.70985<br><b>Lon:</b> -116.739883<br><b>Value:</b> 1<br><b>Time:</b> 7/12/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.739883,
+          59.70985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/11/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.823833<br><b>Lon:</b> -116.504833<br><b>Value:</b> 1<br><b>Time:</b> 7/11/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.504833,
+          59.82383300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.151217<br><b>Lon:</b> -119.15395<br><b>Value:</b> 1<br><b>Time:</b> 7/10/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.15395,
+          57.15121700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.8936<br><b>Lon:</b> -114.024467<br><b>Value:</b> 1<br><b>Time:</b> 7/10/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.024467,
+          57.8936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/10/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.87405<br><b>Lon:</b> -114.3802<br><b>Value:</b> 1<br><b>Time:</b> 7/10/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3802,
+          58.87405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/9/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.518182<br><b>Lon:</b> -117.098242<br><b>Value:</b> 2<br><b>Time:</b> 7/9/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.098242,
+          59.51818200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/6/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.905<br><b>Lon:</b> -116.468667<br><b>Value:</b> 1<br><b>Time:</b> 7/6/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.468667,
+          58.90499999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/6/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.289867<br><b>Lon:</b> -117.415633<br><b>Value:</b> 2<br><b>Time:</b> 7/6/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.415633,
+          59.289867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.113544<br><b>Lon:</b> -116.23369<br><b>Value:</b> 1<br><b>Time:</b> 7/4/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23369,
+          58.113544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/22/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.895517<br><b>Lon:</b> -118.760133<br><b>Value:</b> 1<br><b>Time:</b> 6/22/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.760133,
+          59.895517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/21/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.3408<br><b>Lon:</b> -119.653279<br><b>Value:</b> 2<br><b>Time:</b> 6/21/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.653279,
+          59.3408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/21/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.356333<br><b>Lon:</b> -118.954594<br><b>Value:</b> 2<br><b>Time:</b> 6/21/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.954594,
+          59.356333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/7/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.550433<br><b>Lon:</b> -111.323117<br><b>Value:</b> 1<br><b>Time:</b> 6/7/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.323117,
+          56.55043300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/31/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.897667<br><b>Lon:</b> -118.367583<br><b>Value:</b> 1<br><b>Time:</b> 5/31/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.367583,
+          59.89766700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/30/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.766667<br><b>Lon:</b> -117.088333<br><b>Value:</b> 2<br><b>Time:</b> 5/30/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.088333,
+          59.76666699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/30/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.868667<br><b>Lon:</b> -116.779667<br><b>Value:</b> 1<br><b>Time:</b> 5/30/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.779667,
+          59.868667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/26/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.92135<br><b>Lon:</b> -116.925533<br><b>Value:</b> 1<br><b>Time:</b> 5/26/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.925533,
+          57.92135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/13/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.342448<br><b>Lon:</b> -110.958026<br><b>Value:</b> 1<br><b>Time:</b> 5/13/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.958026,
+          54.342448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/13/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.927879<br><b>Lon:</b> -112.817149<br><b>Value:</b> 1<br><b>Time:</b> 5/13/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.817149,
+          54.92787899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/13/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.463033<br><b>Lon:</b> -118.948217<br><b>Value:</b> 1<br><b>Time:</b> 5/13/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.948217,
+          56.463033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2012 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.137597<br><b>Lon:</b> -115.250265<br><b>Value:</b> 1<br><b>Time:</b> 5/12/2012 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.250265,
+          53.13759699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.6651<br><b>Lon:</b> -115.954417<br><b>Value:</b> 1<br><b>Time:</b> 6/29/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.954417,
+          59.6651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/2/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.364617<br><b>Lon:</b> -110.680533<br><b>Value:</b> 2<br><b>Time:</b> 6/2/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.680533,
+          57.364617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/19/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.8206<br><b>Lon:</b> -115.38405<br><b>Value:</b> 10<br><b>Time:</b> 5/19/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.38405,
+          54.8206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/17/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.165733<br><b>Lon:</b> -116.873067<br><b>Value:</b> 9<br><b>Time:</b> 5/17/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.873067,
+          54.16573300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.037567<br><b>Lon:</b> -117.010567<br><b>Value:</b> 9<br><b>Time:</b> 5/16/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.010567,
+          54.037567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.859408<br><b>Lon:</b> -115.345068<br><b>Value:</b> 10<br><b>Time:</b> 5/16/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.345068,
+          54.859408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.863022<br><b>Lon:</b> -115.402503<br><b>Value:</b> 10<br><b>Time:</b> 5/16/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.402503,
+          54.863022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.27295<br><b>Lon:</b> -115.360417<br><b>Value:</b> 10<br><b>Time:</b> 5/16/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.360417,
+          55.27295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/16/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.585383<br><b>Lon:</b> -115.4113<br><b>Value:</b> 5<br><b>Time:</b> 5/16/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4113,
+          56.585383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.073875<br><b>Lon:</b> -116.759372<br><b>Value:</b> 9<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.759372,
+          54.073875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.82935<br><b>Lon:</b> -114.078167<br><b>Value:</b> 1<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.078167,
+          54.82935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.9598<br><b>Lon:</b> -115.201283<br><b>Value:</b> 10<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.201283,
+          54.9598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.963167<br><b>Lon:</b> -115.53475<br><b>Value:</b> 10<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.53475,
+          54.963167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.006833<br><b>Lon:</b> -115.318<br><b>Value:</b> 10<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.318,
+          55.006833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.223<br><b>Lon:</b> -115.349667<br><b>Value:</b> 10<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.349667,
+          55.223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.378767<br><b>Lon:</b> -114.667033<br><b>Value:</b> 3<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.667033,
+          55.378767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.962017<br><b>Lon:</b> -110.702583<br><b>Value:</b> 1<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.702583,
+          55.962017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.520984<br><b>Lon:</b> -115.231264<br><b>Value:</b> 5<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.231264,
+          56.520984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.526283<br><b>Lon:</b> -116.055267<br><b>Value:</b> 5<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.055267,
+          56.52628300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.912679<br><b>Lon:</b> -111.47759<br><b>Value:</b> 2<br><b>Time:</b> 5/15/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.47759,
+          56.912679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.186217<br><b>Lon:</b> -115.687217<br><b>Value:</b> 1<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.687217,
+          53.186217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.021617<br><b>Lon:</b> -116.674667<br><b>Value:</b> 1<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.674667,
+          54.021617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.037167<br><b>Lon:</b> -116.696333<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.696333,
+          54.037167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.203<br><b>Lon:</b> -116.797333<br><b>Value:</b> 13<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.797333,
+          54.203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.371167<br><b>Lon:</b> -116.882167<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.882167,
+          54.371167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.3755<br><b>Lon:</b> -116.926333<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.926333,
+          54.3755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.410733<br><b>Lon:</b> -116.620583<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.620583,
+          54.410733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.418<br><b>Lon:</b> -116.8845<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8845,
+          54.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.58575<br><b>Lon:</b> -116.773<br><b>Value:</b> 9<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.773,
+          54.58575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.804833<br><b>Lon:</b> -115.478667<br><b>Value:</b> 10<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.478667,
+          54.804833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.043<br><b>Lon:</b> -115.408833<br><b>Value:</b> 10<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.408833,
+          55.043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.199727<br><b>Lon:</b> -114.901457<br><b>Value:</b> 3<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.901457,
+          55.199727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.22565<br><b>Lon:</b> -114.651217<br><b>Value:</b> 3<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.651217,
+          55.22565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.056433<br><b>Lon:</b> -115.255383<br><b>Value:</b> 5<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.255383,
+          56.05643300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.523833<br><b>Lon:</b> -115.890067<br><b>Value:</b> 5<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.890067,
+          56.52383300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/14/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.603559<br><b>Lon:</b> -111.301272<br><b>Value:</b> 1<br><b>Time:</b> 5/14/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.301272,
+          57.603559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/12/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.485333<br><b>Lon:</b> -114.498083<br><b>Value:</b> 1<br><b>Time:</b> 5/12/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.498083,
+          58.485333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/11/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.239167<br><b>Lon:</b> -115.663333<br><b>Value:</b> 1<br><b>Time:</b> 5/11/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.663333,
+          54.239167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/10/2011 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.1977<br><b>Lon:</b> -111.632617<br><b>Value:</b> 1<br><b>Time:</b> 5/10/2011 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.632617,
+          57.19769999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2010 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.247343<br><b>Lon:</b> -113.571622<br><b>Value:</b> 1<br><b>Time:</b> 6/15/2010 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.571622,
+          57.247343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2010 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.260903<br><b>Lon:</b> -113.697427<br><b>Value:</b> 3<br><b>Time:</b> 6/15/2010 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.697427,
+          57.260903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2010 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.262561<br><b>Lon:</b> -113.602278<br><b>Value:</b> 3<br><b>Time:</b> 6/15/2010 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.602278,
+          57.262561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2010 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.26478<br><b>Lon:</b> -113.686362<br><b>Value:</b> 3<br><b>Time:</b> 6/15/2010 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.686362,
+          57.26477999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/11/2010 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.570667<br><b>Lon:</b> -116.209967<br><b>Value:</b> 2<br><b>Time:</b> 6/11/2010 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.209967,
+          59.570667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 9/23/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.945617<br><b>Lon:</b> -119.3991<br><b>Value:</b> 1<br><b>Time:</b> 9/23/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3991,
+          53.945617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/17/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.070183<br><b>Lon:</b> -113.059167<br><b>Value:</b> 2<br><b>Time:</b> 6/17/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.059167,
+          57.070183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.3335<br><b>Lon:</b> -116.921333<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.921333,
+          53.3335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.681667<br><b>Lon:</b> -114.7635<br><b>Value:</b> 1<br><b>Time:</b> 6/15/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7635,
+          54.681667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/14/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.551098<br><b>Lon:</b> -114.984807<br><b>Value:</b> 1<br><b>Time:</b> 6/14/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.984807,
+          54.551098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/14/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.675833<br><b>Lon:</b> -113.678167<br><b>Value:</b> 1<br><b>Time:</b> 6/14/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.678167,
+          54.675833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/14/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.982833<br><b>Lon:</b> -114.733333<br><b>Value:</b> 1<br><b>Time:</b> 6/14/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.733333,
+          56.982833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/14/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.702517<br><b>Lon:</b> -119.768167<br><b>Value:</b> 1<br><b>Time:</b> 6/14/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.768167,
+          57.702517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.132167<br><b>Lon:</b> -111.455833<br><b>Value:</b> 1<br><b>Time:</b> 6/13/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.455833,
+          55.132167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.546783<br><b>Lon:</b> -113.386383<br><b>Value:</b> 1<br><b>Time:</b> 6/13/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.386383,
+          55.546783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.4615<br><b>Lon:</b> -115.7355<br><b>Value:</b> 1<br><b>Time:</b> 6/13/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7355,
+          56.46149999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/12/2009 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.476117<br><b>Lon:</b> -119.2281<br><b>Value:</b> 1<br><b>Time:</b> 6/12/2009 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2281,
+          59.476117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/14/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.439599<br><b>Lon:</b> -114.76586<br><b>Value:</b> 1<br><b>Time:</b> 8/14/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.76586,
+          59.439599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/6/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.109633<br><b>Lon:</b> -119.728267<br><b>Value:</b> 1<br><b>Time:</b> 8/6/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.728267,
+          58.109633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.732667<br><b>Lon:</b> -118.885133<br><b>Value:</b> 1<br><b>Time:</b> 7/3/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.885133,
+          56.732667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/11/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.06515<br><b>Lon:</b> -110.6246<br><b>Value:</b> 1<br><b>Time:</b> 6/11/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6246,
+          57.06515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/6/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.000278<br><b>Lon:</b> -110.941943<br><b>Value:</b> 1<br><b>Time:</b> 6/6/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.941943,
+          55.000278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/6/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.298<br><b>Lon:</b> -110.891767<br><b>Value:</b> 1<br><b>Time:</b> 6/6/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.891767,
+          55.298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.339117<br><b>Lon:</b> -114.958833<br><b>Value:</b> 2<br><b>Time:</b> 5/15/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.958833,
+          55.33911700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.464667<br><b>Lon:</b> -114.79635<br><b>Value:</b> 2<br><b>Time:</b> 5/15/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.79635,
+          55.464667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.099152<br><b>Lon:</b> -117.210496<br><b>Value:</b> 1<br><b>Time:</b> 5/15/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.210496,
+          57.09915199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/7/2008 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.102988<br><b>Lon:</b> -117.607253<br><b>Value:</b> 1<br><b>Time:</b> 4/7/2008 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.607253,
+          55.102988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/20/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.848075<br><b>Lon:</b> -110.269268<br><b>Value:</b> 1<br><b>Time:</b> 7/20/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.269268,
+          55.848075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/17/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.3699<br><b>Lon:</b> -110.773217<br><b>Value:</b> 1<br><b>Time:</b> 7/17/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.773217,
+          58.3699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/15/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.134333<br><b>Lon:</b> -111.6425<br><b>Value:</b> 1<br><b>Time:</b> 7/15/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6425,
+          57.134333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/12/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.441833<br><b>Lon:</b> -114.235667<br><b>Value:</b> 1<br><b>Time:</b> 7/12/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.235667,
+          59.441833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/18/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.90066<br><b>Lon:</b> -118.33173<br><b>Value:</b> 1<br><b>Time:</b> 6/18/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33173,
+          59.90066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.1425<br><b>Lon:</b> -115.65<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.65,
+          59.14249999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/15/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.84117<br><b>Lon:</b> -116.60899<br><b>Value:</b> 1<br><b>Time:</b> 6/15/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.60899,
+          59.84117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/13/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.44615<br><b>Lon:</b> -117.354817<br><b>Value:</b> 1<br><b>Time:</b> 6/13/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.354817,
+          59.44615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/1/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.9925<br><b>Lon:</b> -111.898667<br><b>Value:</b> 1<br><b>Time:</b> 6/1/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.898667,
+          56.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/26/2007 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.745393<br><b>Lon:</b> -114.053237<br><b>Value:</b> 1<br><b>Time:</b> 4/26/2007 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.053237,
+          58.745393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 8/22/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.121483<br><b>Lon:</b> -114.1601<br><b>Value:</b> 1<br><b>Time:</b> 8/22/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1601,
+          59.121483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/23/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.42205<br><b>Lon:</b> -118.308983<br><b>Value:</b> 1<br><b>Time:</b> 7/23/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.308983,
+          53.42205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.561129<br><b>Lon:</b> -119.636335<br><b>Value:</b> 1<br><b>Time:</b> 7/4/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.636335,
+          53.561129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.283933<br><b>Lon:</b> -118.016117<br><b>Value:</b> 1<br><b>Time:</b> 7/4/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.016117,
+          54.283933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/4/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.689167<br><b>Lon:</b> -118.601111<br><b>Value:</b> 1<br><b>Time:</b> 7/4/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.601111,
+          56.689167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.9857<br><b>Lon:</b> -116.468883<br><b>Value:</b> 1<br><b>Time:</b> 7/3/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.468883,
+          52.98569999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/3/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.854867<br><b>Lon:</b> -115.023383<br><b>Value:</b> 1<br><b>Time:</b> 7/3/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.023383,
+          54.854867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.464167<br><b>Lon:</b> -116.033667<br><b>Value:</b> 1<br><b>Time:</b> 7/2/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.033667,
+          52.464167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/2/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.6205<br><b>Lon:</b> -119.865<br><b>Value:</b> 1<br><b>Time:</b> 7/2/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.865,
+          57.62049999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 7/1/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.980433<br><b>Lon:</b> -119.745933<br><b>Value:</b> 1<br><b>Time:</b> 7/1/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.745933,
+          57.980433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.2545<br><b>Lon:</b> -113.270667<br><b>Value:</b> 2<br><b>Time:</b> 6/29/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.270667,
+          56.2545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.442783<br><b>Lon:</b> -112.08535<br><b>Value:</b> 1<br><b>Time:</b> 6/29/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08535,
+          56.442783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/29/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.948567<br><b>Lon:</b> -113.9832<br><b>Value:</b> 1<br><b>Time:</b> 6/29/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9832,
+          56.948567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.267833<br><b>Lon:</b> -113.191333<br><b>Value:</b> 2<br><b>Time:</b> 6/28/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.191333,
+          56.267833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/28/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 56.909783<br><b>Lon:</b> -113.613217<br><b>Value:</b> 1<br><b>Time:</b> 6/28/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.613217,
+          56.909783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/26/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 53.791567<br><b>Lon:</b> -119.743<br><b>Value:</b> 1<br><b>Time:</b> 6/26/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.743,
+          53.791567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/20/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.274283<br><b>Lon:</b> -111.26715<br><b>Value:</b> 1<br><b>Time:</b> 6/20/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.26715,
+          58.274283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 57.747667<br><b>Lon:</b> -112.924667<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.924667,
+          57.747667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.050167<br><b>Lon:</b> -114.8085<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8085,
+          59.05016700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 6/16/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 59.199678<br><b>Lon:</b> -114.410053<br><b>Value:</b> 1<br><b>Time:</b> 6/16/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.410053,
+          59.199678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/19/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 54.292883<br><b>Lon:</b> -116.0708<br><b>Value:</b> 1<br><b>Time:</b> 5/19/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0708,
+          54.292883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 5/15/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 52.004124<br><b>Lon:</b> -114.961739<br><b>Value:</b> 1<br><b>Time:</b> 5/15/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.961739,
+          52.004124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/28/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.452807<br><b>Lon:</b> -114.383951<br><b>Value:</b> 1<br><b>Time:</b> 4/28/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.383951,
+          58.452807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/20/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 55.283355<br><b>Lon:</b> -116.270533<br><b>Value:</b> 13<br><b>Time:</b> 4/20/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.270533,
+          55.28335499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatmap 4/4/2006 12:00:00 AM",
+        "description": "<b>Lat:</b> 58.04015<br><b>Lon:</b> -115.6019<br><b>Value:</b> 1<br><b>Time:</b> 4/4/2006 12:00:00 AM<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6019,
+          58.04015
+        ]
+      }
+    }
+  ]
+}
